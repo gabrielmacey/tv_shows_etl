@@ -20,4 +20,4 @@ Pandas has multiple functions to help us in the fine-tuning of our data.
 L
 -
 PostgreSQL will be our database for loading and examining our data.
-We choose this platform to expand our knowlegde and push ourselves to learn more about Postgres.
+We choose this platform to expand our knowledge and push ourselves to learn more about Postgres.
