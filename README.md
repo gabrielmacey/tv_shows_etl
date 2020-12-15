@@ -21,3 +21,6 @@ L
 -
 PostgreSQL will be our database for loading and examining our data.
 We chose this platform to expand our knowledge and push ourselves to learn more about Postgres.
+
+Here is a link to our presentation:
+https://prezi.com/d-udzbwhk6tq/?utm_campaign=share&utm_medium=copy
